@@ -11,5 +11,8 @@ A clean, minimalist countdown timer that counts down from any specified time to 
    let minutes = 32;  // Set minutes  
    let seconds = 11;  // Set seconds
    ```
-3.Open index.html in your browser
-4.Watch it count down to zero!   
+3. Open index.html in your browser
+4. Watch it count down to zero!
+
+Live Demo:
+https://naderfkihhassen.github.io/Countdown-Timer/
